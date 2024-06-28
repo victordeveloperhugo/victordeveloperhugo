@@ -10,6 +10,8 @@
 ![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victordeveloperhugo&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
+
 ![Developer Victor Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=victordeveloperhugo&show_icons=true&theme=dark)
 
 ##### "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam." – Martin Fowler
