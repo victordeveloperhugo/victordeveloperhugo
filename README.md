@@ -1,16 +1,15 @@
-## Hi there 👋
 
-<!--
-**victordeveloperhugo/victordeveloperhugo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Developer Victor Hugo! 👨‍💻☕
+###### Apaixonado por programação, sempre me aprimorando e buscando conhecimento, aliado com sempre ser autodidata, aprofundando meus conhecimentos em Java e seus frameworks, linguagem que amo desde o primeiro contato.
 
-Here are some ideas to get you started:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-hugo-vitorino-abreu-eleot%C3%A9rio-5606241b5/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tecnologias que utilizo no meu dia.
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+![Developer Victor Hugo GitHub stats](https://github-readme-stats.vercel.app/api?username=victordeveloperhugo&show_icons=true&theme=dark)
+
+##### "Qualquer um pode escrever um código que o computador entenda. Bons programadores escrevem códigos que os humanos entendam." – Martin Fowler
