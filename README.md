@@ -2,7 +2,7 @@
 ### Developer Victor Hugo! 👨‍💻☕
 ###### Apaixonado por programação, sempre me aprimorando e buscando conhecimento, aliado com sempre ser autodidata, aprofundando meus conhecimentos em Java e seus frameworks, linguagem que amo desde o primeiro contato.
 
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white ([https://www.linkedin.com/in/myprofile](https://www.linkedin.com/in/victor-hugo-abreu-5606241b5/)](https))]
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 ## Tecnologias que utilizo no meu dia.
